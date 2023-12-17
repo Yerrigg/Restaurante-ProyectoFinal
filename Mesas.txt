@@ -1,0 +1,5 @@
+1_3_Ocupado
+2_3_Desocupado
+3_4_Desocupado
+4_6_Desocupado
+5_6_Ocupado
